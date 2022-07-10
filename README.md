@@ -1,4 +1,4 @@
-### Olá, sejam bem vindos, eu sou o Rosinei, atualmente estou estudando c#
+### Olá, sejam bem vindos, eu sou o Rosinei, atualmente estou estudando webApi com C#
 
 <div align="center">
   <a href="https://github.com/rosineisilveira">
