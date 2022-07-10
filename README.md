@@ -1,4 +1,4 @@
-### Sejam bem vindos !!!
+### Olá, sejam bem vindos, eu sou o Rosinei, atualmente estou estudando c#
 
 <div align="center">
   <a href="https://github.com/rosineisilveira">
