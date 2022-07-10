@@ -1,4 +1,4 @@
-### Seja bem vindo !!!
+### Sejam bem vindos !!!
 
 <div align="center">
   <a href="https://github.com/rosineisilveira">
